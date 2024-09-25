@@ -1,0 +1,17 @@
+body {
+    display: grid;
+    place-items: center;
+    background-color: black;
+}
+.Formu {
+    background-color: silver;
+    padding: 50px;
+    text-align: center;
+    margin-top: 250px;
+    border-radius: 20px;
+    height: 200px;
+    width: 400px;
+}
+.Formu select {
+    margin-top: 50px;
+}
